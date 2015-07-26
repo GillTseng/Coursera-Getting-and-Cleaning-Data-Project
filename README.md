@@ -3,7 +3,8 @@ Coursera- Getting and cleaning data project work
 
 The repository contains the project work of Getting and cleaning data from Coursera.
 
-Project Summary
+Project Summary:
+
 The data has been prepared by following steps:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
